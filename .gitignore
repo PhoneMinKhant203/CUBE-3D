@@ -1,0 +1,4 @@
+valgrind.log
+*.o
+cub3D
+mlxlib/build
